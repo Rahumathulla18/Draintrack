@@ -1,0 +1,10 @@
+{
+  "name": "Remix  DrainTrack",
+  "description": "A smart drainage maintenance platform for municipal management, sanitation workers, and citizens to track and verify urban cleaning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
